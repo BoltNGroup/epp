@@ -10,7 +10,7 @@ EPP ([Extensible Provisioning Protocol](https://tools.ietf.org/html/rfc5730)) cl
 
 ## Installation
 
-`go get github.com/domainr/epp`
+`go get github.com/BoltNGroup/go-epp`
 
 ## Usage
 
